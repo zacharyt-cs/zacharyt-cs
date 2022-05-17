@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zachary!
 - 👀 I’m interested in data tools and data pipelines so that data can be better utilised and understood.
-- 🌱 I’m currently learning Airflow, Spark, DBT, and also becoming more proficient in Python and SQL.
-- 💞️ I enjoy watching the NBA, listening to podcasts, and strumming away on my guitar!
+- 🌱 I’m currently learning Airflow, Spark, dbt, and also becoming more proficient in Python and SQL.
+- 💞️ I enjoy watching the NBA, listening to podcasts, and playing the guitar.
 - 📫 You can reach me at https://www.linkedin.com/in/zacharytancs/!
 
 <!---
