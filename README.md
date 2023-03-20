@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zachary!
 - 👀 I’m passionate about data engineering and building data pipelines.
-- 🌱 Currently on the pursuit of mastering the DE tech stack.
+- 🌱 Currently in the pursuit of mastering the DE tech stack.
 - 💞️ In my free time, I enjoy listening to podcasts.
 - 📫 You can reach me at https://www.linkedin.com/in/zacharytancs/!
 
