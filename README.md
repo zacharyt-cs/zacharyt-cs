@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Zachary!
-- 👀 I’m passionate about data engineering and building data pipelines.
-- 🌱 Currently in the pursuit of mastering the DE tech stack.
-- 💞️ In my free time, I enjoy listening to podcasts.
-- 📫 You can reach me at https://www.linkedin.com/in/zacharytancs/!
+- 👀 I’m passionate about data engineering and I'm lucky to be doing it as my job.
+- 🌱 Getting 1% better every day
 
 <!---
 zacharyt-cs/zacharyt-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
